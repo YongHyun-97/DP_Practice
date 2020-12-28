@@ -1,2 +1,2 @@
 # DP_Practice
-DP연습하자
+DP연습한거
